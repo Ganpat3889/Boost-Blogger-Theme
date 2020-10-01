@@ -51,6 +51,8 @@ Compatible with major browsers (IE8+,Mozilla,Chrome,Safari)
 
 Professional admin layout, help you easy work with blog layout.
 
+Interesting Templates for Upcoming Bloggers.
+
 
 [![ko-fi](https://getsiteglue.com/wp-content/uploads/2018/04/demo-button.png)](https://www.factsprime.com/)
 
